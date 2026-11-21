@@ -70,7 +70,7 @@ Código: el jugador tiene un `AudioSource` y usa `PlayOneShot()` con el clip que
 
 ## Créditos
 
-**Integrante:** Maria Luisa
+**Integrante:** Maria Luisa Mejia Bermudez
 
 **Assets utilizados:**
 - [Pixel Platformer](https://kenney.nl/assets/pixel-platformer) - Kenney (licencia CC0)
@@ -81,4 +81,4 @@ Hecho con Unity 6 (6000.3.17f1).
 
 ## Video
 
-Link del video: (pendiente)
+Link del video: https://youtu.be/BcwEcQH4mIY
