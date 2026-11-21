@@ -2405,9 +2405,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1.15
-  m_Text: 'Integrantes del equipo:
+  m_Text: 'Integrante:
 
-    Integrante 1 - Integrante 2
+    Maria Luisa
 
 
     Assets
